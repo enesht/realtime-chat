@@ -11,7 +11,6 @@
   
 ## Usage
 ```
-
 npm install  
 
 npm install express
@@ -20,7 +19,6 @@ npm run dev
 
 Go to localhost:3000
 ```
-
 ## Preview / menu
 ![image](https://user-images.githubusercontent.com/62212877/165623237-a084b119-ed28-4751-ac79-82b87dc11581.png)
 
